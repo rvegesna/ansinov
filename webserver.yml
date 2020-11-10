@@ -1,2 +1,4 @@
 - hosts: webserver
   remote_user: test
+  tasks:
+     - name
